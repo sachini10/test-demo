@@ -1,2 +1,1 @@
-select 1 from dual
-where employee <> 'Sachini';
+select 8 from dual;
