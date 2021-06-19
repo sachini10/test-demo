@@ -1,1 +1,2 @@
-select 2 from dual;
+select 1 from dual
+where employee <> 'Sachini';
